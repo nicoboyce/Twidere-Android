@@ -1,28 +1,21 @@
-#Twidere for Android#
+#tootheless#
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Twidere-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/2453)
-[![Travis status](https://api.travis-ci.org/TwidereProject/Twidere-Android.png)](https://travis-ci.org/TwidereProject/Twidere-Android/)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/twidere/localized.svg)](https://crowdin.com/project/twidere)
-
-Material Design ready and feature rich Twitter app for Android 4.0+
+fork of twidere that may eventually work for mastodon.social
 
 ---
 
-## Features ##
-
-* Customizable Material Design
-* Night mode
-* Customizable tabs
-* Tweet with photos, videos and GIFs
-* Powerful mute filters
-* Multiple account support
-* Custom API settings
-* Free, open source, NO ads, forever!
+you'd probably be better off with twidere itself which is downloadable here
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/repository/browse/?fdid=org.mariotaku.twidere)
 
 ---
+
+#twidere readme#
+
+the following is the credits etc from the readme from twidere-android
+
+don't email mariotaku lee thinking he's me or whatever
 
 ## Credits ##
 
